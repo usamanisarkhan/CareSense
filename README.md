@@ -1,7 +1,7 @@
 # CareSense (AWS CDK)
 
 CareSense is a serverless healthcare reminder application deployed on AWS using **AWS CDK**.  
-It was inspired by the Cuddle-o-Tron project and reimplemented to manage existing AWS resources in a reproducible way.
+
 
 ---
 
