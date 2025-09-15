@@ -4,7 +4,7 @@ CareSense is a serverless healthcare reminder application deployed on AWS using 
 
 
 ## Architecture Diagram
-[Architecture](architecture.png)
+architecture.png
 ---
 
 ## 🚀 Architecture
