@@ -1,0 +1,21 @@
+{
+  "version": "48.0.0",
+  "files": {
+    "076b6564cd4bce9925e45312dab408da8f8f35dae48305e35218e0afcadc75cf": {
+      "displayName": "CareSenseStack Template",
+      "source": {
+        "path": "CareSenseStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "462498958925-us-east-1-2e2839ce": {
+          "bucketName": "cdk-hnb659fds-assets-462498958925-us-east-1",
+          "objectKey": "076b6564cd4bce9925e45312dab408da8f8f35dae48305e35218e0afcadc75cf.json",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::462498958925:role/cdk-hnb659fds-file-publishing-role-462498958925-us-east-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}
